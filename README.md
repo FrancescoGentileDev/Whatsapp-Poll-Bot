@@ -6,6 +6,18 @@ Bot per creare dei pool su whatsapp.
 Funziona tramite la libreria whatsapp-web.js per un api non ufficiale basata su puppeteer,
 e mongoDB per salvare tutti i sondaggi creati sui vari gruppi e per conteggiare i vari voti.
 
+## INSTALLAZIONE: 
+
+`npm i` 
+per installare i pacchetti necessari.
+
+`node index.js`
+Starta il bot
+
+Nella shell verrà stampato il qr da scannerizzare e inquadrare su whatsapp.
+
+#### BOT OPERATIVO!
+
 ## FUNZIONI E COMANDI: 
 
  - `!poll` Tramite questo comando in chat di gruppo si può inizializzare
